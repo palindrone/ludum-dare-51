@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 12bc8d798fcc14b4fb63d2726f635a02, type: 3}
+  m_Name: FarmCarrot
+  m_EditorClassIdentifier: 
+  buildingName: Karrut Farm
+  sprite: {fileID: 21300000, guid: 4b4e1be7e939be549b7ea03520959396, type: 3}
+  animationTrigger: Carrot
+  spawnTime: 5
+  spawnItem: {fileID: 11400000, guid: cf6e1112deac1bf409e51768cfd912bc, type: 2}
+  goldCost: 2
+  sandCost: 0
+  description: A humble Karrut will surely sate the beast. For now.
+  description2: 
